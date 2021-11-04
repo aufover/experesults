@@ -149,5 +149,5 @@
 |wget-1.21.1-2.el9.src.rpm||||||
 |xz-5.2.5-5.el9.src.rpm||||||
 |zchunk-1.1.9-2.el9.src.rpm||||||
-|zlib-1.2.11-24.el9.src.rpm||||||
+|zlib-1.2.11-24.el9.src.rpm|CBMC|OK|OK|OK|1 FALSE POSITIVE (trace is 700lines long)|
 |zstd-1.4.7-2.el9.src.rpm||||||
